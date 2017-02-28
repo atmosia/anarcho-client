@@ -1,5 +1,5 @@
 [package]
-name = "anarcho-client"
+name = "anarcho"
 version = "0.1.0"
 authors = ["mikeyhc <mikeyhc@atmosia.net>"]
 
